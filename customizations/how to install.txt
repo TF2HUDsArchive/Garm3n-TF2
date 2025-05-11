@@ -1,0 +1,1 @@
+take the folders inside a customization and put it directly into garm3n tf2 folder (where is located info.vdf, resource, scripts)
